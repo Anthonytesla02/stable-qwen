@@ -1,0 +1,13 @@
+{
+  "name": "qwen-image-api",
+  "version": "1.0.0",
+  "description": "A free wrapper API for Qwen-Image-Fast generation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@gradio/client": "^1.11.0",
+    "express": "^4.18.2"
+  }
+}
